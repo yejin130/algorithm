@@ -9,9 +9,8 @@ public class BOJ_¿œ∞ˆ≥≠¿Ô¿Ã_2309 {
 	static boolean flag;
 	static int[] src = new int[9];
 	static int[] tgt = new int[7];
-	
+
 	public static void main(String[] args) throws Exception{
-		// TODO Auto-generated method stub
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
 		for(int i = 0;i < 9;i++) {			
